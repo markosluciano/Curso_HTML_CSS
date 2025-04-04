@@ -39,7 +39,6 @@ a::before {
     
 }
 
-
 #button {
     display: inline-block;
     background-color: #cea4a6;
@@ -53,3 +52,10 @@ a::before {
 #button:hover {
     transform: scale(1.1);
    }
+
+h1{
+    font-family:'Press Start 2P', Arial, Helvetica, sans-serif;
+    font-size: 40Px ;
+    color:#F25A70;
+    
+}
