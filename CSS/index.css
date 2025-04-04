@@ -6,10 +6,12 @@ header {
     padding: 10px 20px;
     align-items: center;
 }
-h1{
-    font-family: "Press Start 2P", system-ui;
-    color: white;
-    text-shadow: 4px 4px 0 #050000;
+
+img{
+    background-color:bisque ;
+    border-radius: 10px;
+    box-shadow: 3px 3px 0 #272727;
+
 }
 
 nav {
